@@ -1,0 +1,23 @@
+body{
+background-image:url('https://images.pexels.com/photos/2246803/pexels-photo-2246803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+background-size:cover;
+background-position:center;
+height:100vh;
+display:overflow;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+text-align:center;
+padding:0 20px;
+}
+#showcase h1{
+font-size:70px;
+line-height:1.6;
+color:white;
+
+}
+#showcase p{
+font-size:50px;
+line-height:1.6;
+color:white;
+}
