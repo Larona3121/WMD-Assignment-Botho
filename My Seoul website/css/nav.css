@@ -1,0 +1,25 @@
+.topnav {
+overflow:hidden;
+}
+.topnav li.logo{
+flex:1;
+font-family:san-seriff;
+font-size:20px;
+font-weight:700;
+
+}
+.topnav li {
+display:inline-block;
+}
+.topnav a{
+text-decoration:none;
+color:#fff;
+display:inline-block;
+padding:5px 20px;
+font-size:20px;
+font-family:Helvetica;
+}
+.topnav a:hover {
+background:#000;
+transition:0.4s;
+}
